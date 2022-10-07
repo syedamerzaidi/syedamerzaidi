@@ -1,6 +1,6 @@
 <img src="https://media-exp1.licdn.com/dms/image/C4D16AQEKg_AjaRGXRA/profile-displaybackgroundimage-shrink_350_1400/0/1652644643899?e=1670457600&v=beta&t=nNapuTwj_1TFuOb-_jV9xicKlJA9ggo30eIGla4NQIo" alt="banner" align="center">
 <h1 align="center">Hi 👋, I'm Syed Muhammad Amer Ali Zaidi</h1>
-<h3>I am a computer science student. I am very passionate about learning new technologies related to my field.</h3>
+<h3 align="center">I am a computer science student. I am very passionate about learning new technologies related to my field.</h3>
 
 - 🌱 I’m currently learning **Html, CSS, Javascript**
 
