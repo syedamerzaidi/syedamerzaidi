@@ -1,10 +1,8 @@
-<img src="https://media-exp1.licdn.com/dms/image/C4D16AQEKg_AjaRGXRA/profile-displaybackgroundimage-shrink_350_1400/0/1652644643899?e=1670457600&v=beta&t=nNapuTwj_1TFuOb-_jV9xicKlJA9ggo30eIGla4NQIo" alt="banner" align="center">
+<img src="https://media.licdn.com/dms/image/D4D16AQEys9GvghHQaw/profile-displaybackgroundimage-shrink_350_1400/0/1685280968995?e=1716422400&v=beta&t=rdHUGmQwMEg-C5mEbZmlkpzzrJpujH8vSP7axD8eVng" alt="banner" align="center">
 <h1 align="center">Hi 👋, I'm Syed Muhammad Amer Ali Zaidi</h1>
 <h3 align="center">I am a computer science student. I am very passionate about learning new technologies related to my field.</h3>
 
-- 🌱 I’m currently learning **Html, CSS, Javascript**
-
-- 💫 My Hobbies are reading manga and watching anime
+-  I’m currently learning **ASP.NET (Dot Net)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
