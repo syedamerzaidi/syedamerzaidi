@@ -1,12 +1,12 @@
 <img src="https://media.licdn.com/dms/image/D4D16AQEys9GvghHQaw/profile-displaybackgroundimage-shrink_350_1400/0/1685280968995?e=1716422400&v=beta&t=rdHUGmQwMEg-C5mEbZmlkpzzrJpujH8vSP7axD8eVng" alt="banner" align="center">
 <h1 align="center">Hi 👋, I'm Syed Muhammad Amer Ali Zaidi</h1>
-<h3 align="center">I am a computer science student. I am very passionate about learning new technologies related to my field.</h3>
+<h3 align="center">I am Full Stack Developer with expertise in .Net Framework and Angular/React Stack, I excel at quickly mastering new technologies and applying them effectively. My core interests lie in Web Development, Big Data, and Data Science, where I enjoy creating scalable and innovative solutions. I am passionate about staying current with industry trends and continuously expanding my skill set.</h3>
 
--  I’m currently learning **ASP.NET (Dot Net)**
+-  I’m currently working as Full Stack Developer on ** Angular / ASP.NET (Dot Net) Stack**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/syedamer1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syedamer1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/syedamerzaidi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syedamer1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
