@@ -14,7 +14,9 @@
 
 ###
 
-<p align="left">I am Full Stack Developer. I build stuff for the web with strong foundations in Backend development, while also engaging in Frontend technologies. I have worked on different Enterprise-Level Projects & Products in .NET Framework and React/Angular.<br><br>These days, My main focus is on sharpening my backend engineering and learning new technologies. My greatest strength is my ability to learn new technologies quickly. Staying up to date with industry best practices allows me to consistently deliver efficient applications.</p>
+<p align="left">I am Software Engineer. I build stuff for the web with strong foundations in Backend development, with a touch of Frontend development to bring it all together. I have worked on different Enterprise-Level Projects & Products in .NET Framework and React/Angular, and on the cloud side Microsoft Azure.
+
+As the saying goes, learning never ends. These days, my main focus is on sharpening my backend engineering and learning new technologies. My greatest strength is my ability to quickly learn new technologies and adapt to new challenges</p>
 
 ###
 
